@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Emergency App</string>
+    <string name="police">police</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="fire_fighting">Fire Fighting</string>
+    <string name="water">Water</string>
+    <string name="gas">Gas</string>
+    <string name="electricity">Electricity</string>
+    <string name="todo">TODO</string>
+    <string name="highways">Highways</string>
+    <string name="telecommunications">Telecommunications</string>
+</resources>
